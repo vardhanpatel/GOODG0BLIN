@@ -6,8 +6,16 @@ Simple GUI for G0BLIN by Sticktron and xPreeks
 I HAVE SIMPLY EDITED THE GUI
 
 
+
+
+---------------------------------------
+
 THANKS TO Sticktron for the Orignal JB.
+
 Thanks TO xPreeks for Cydia Version
+
+---------------------------------------
+
 
 
 kernel exploit:    siguza (v0rtex)
@@ -19,6 +27,8 @@ patchfinder:   xerub
 cydia, substrate:  saurik 
 
 Good  Goblin - Everything4ios
+
+---------------------------------------
 
 
 
